@@ -1,6 +1,7 @@
-#👨‍💻 Breno Olliari
+# 👨‍💻 Breno Olliari
 
 **`Estudante de Ciências da Computação (UPF)`**
+
 Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação na Universidade de Passo Fundo (UPF). 
 
 
