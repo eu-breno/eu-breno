@@ -77,14 +77,13 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    src="https://img.icons8.com/color/512/c-programming.png" 
 />
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="C++" 
+    title="C++" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/512/c-programming.png" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <br clear="left"/>
