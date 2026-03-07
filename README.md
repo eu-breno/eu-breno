@@ -13,7 +13,7 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" <!-- -->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
@@ -21,7 +21,7 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" <!-- -->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
@@ -29,7 +29,7 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" <!-- -->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
@@ -37,7 +37,7 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" <!-- -->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -45,7 +45,7 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" <!-- -->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left" 
@@ -53,7 +53,7 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" <!-- -->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     align="left" 
@@ -61,7 +61,7 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" <!-- -->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <img 
@@ -70,7 +70,7 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" <!-- -->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
 <img 
@@ -79,7 +79,7 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="Oracle Database"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" <!-- -->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
 
 <img 
@@ -88,6 +88,6 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" <!-- -->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <br clear="left"/>
