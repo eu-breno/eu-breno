@@ -37,7 +37,7 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="Oracle Database"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg](https://m.media-amazon.com/images/I/41QodfboFdL._h1_.png)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />
 <img 
     align="left" 
@@ -77,7 +77,7 @@ Me chamo Breno Olliari, tenho 18 anos e estou cursando Ciências da Computação
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg](https://img.icons8.com/color/512/c-programming.png)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
 <img 
     align="left" 
